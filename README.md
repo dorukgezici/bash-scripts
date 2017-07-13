@@ -1,4 +1,5 @@
 # Bash Scripts
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
 Some personal bash scripts I wrote for daily use.
 
